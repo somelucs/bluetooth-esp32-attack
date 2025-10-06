@@ -53,7 +53,7 @@ Virtual machines (VMs) to run target OS images (e.g., Windows VM snapshots).
 
 Isolated network (air-gapped or physically separated) to prevent unintended interaction with other devices.
 
-Safe lab setup (recommended)
+## Safe lab setup (recommended)
 
 To minimize risk, follow these defensive testing controls:
 
